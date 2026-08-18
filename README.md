@@ -37,7 +37,9 @@ This project analyzes a Shopify sales export (7,431 transactions) to answer key 
 
 ## Dashboard Preview
 
-*(Add your dashboard screenshots here after uploading)*
+<img width="973" height="545" alt="image" src="https://github.com/user-attachments/assets/9ef06ef9-9ab9-4614-8314-ac732f279f95" />
+
+<img width="862" height="530" alt="image" src="https://github.com/user-attachments/assets/bb001be9-26f7-4b72-971a-bbaa91785154" />
 
 ## Author
 
